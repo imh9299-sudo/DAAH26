@@ -1,7 +1,7 @@
 main:
   - title: "DN"
     url: /digital-narratives/
-    - title: "Assignments"
+  - title: "Assignments"
     url: /assignments/
   - title: "FP"
     url: /final-presentation/
