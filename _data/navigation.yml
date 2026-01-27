@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "DN"
+    url: /digital-narratives/
+    - title: "Assignments"
+    url: /assignments/
+  - title: "FP"
+    url: /final-presentation/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
