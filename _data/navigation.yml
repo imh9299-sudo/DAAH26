@@ -4,7 +4,7 @@ main:
   - title: "Assignments"
     url: /assignments/
     children:
-      - title: "Assignment 1: Storyboard"
+      - title: "Assignment 1"
         url: /assignments/assignment-1/
       - title: "Assignment 2"
         url: /assignments/assignment-2/
