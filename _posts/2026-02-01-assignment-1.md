@@ -1,6 +1,6 @@
 ---
-title: "Assignment 1: Storyboard"
-date: 2026-02-01
+title: "Assignment 1"
+date: 2026-02-28
 categories: assignments
 layout: single
 ---
