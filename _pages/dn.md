@@ -53,6 +53,9 @@ Looking ahead, I want to explore new ways of integrating technology into my crea
 
 In conclusion, digital literacy is essential for any writer in the 21st century. It enables us to create, share, and analyze stories in ways that were unimaginable a generation ago. By embracing digital tools and interdisciplinary collaboration, I am not only expanding my own creative possibilities, but also contributing to a broader conversation about the future of storytelling. As I continue my studies, I am excited to see where this journey will take me—and what new stories I will be able to tell along the way.
 
+
+GTP-5 mini
+
 ## Digital Literacy Reflection: A Film and New Media Student's Perspective
 
 At twenty, majoring in Film and New Media, digital literacy is the air I breathe. My practice depends on an ecosystem of hardware, software, and platforms that shape not only how I make work but how I research, collaborate, and think. For me, digital literacy means fluency—knowing the right tools for a specific creative aim, understanding data flows and production pipelines, and thinking critically about how technologies frame narratives and audiences.
