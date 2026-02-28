@@ -3,6 +3,11 @@ main:
     url: /DN/
   - title: "Assignments"
     url: /assignments/
+    children:
+      - title: "Assignment 1: Storyboard"
+        url: /assignments/assignment-1/
+      - title: "Assignment 2"
+        url: /assignments/assignment-2/
   - title: "FP"
     url: /FP/
   - title: "Tags"
