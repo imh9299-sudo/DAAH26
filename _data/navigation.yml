@@ -1,6 +1,6 @@
 main:
   - title: "DN"
-    url: /DN/
+    url: /dn/
   - title: "Assignments"
     url: /assignments/
     children:
@@ -9,6 +9,6 @@ main:
       - title: "Assignment 2"
         url: /assignments/assignment-2/
   - title: "FP"
-    url: /FP/
+    url: /fp/
   - title: "Tags"
     url: /tags/
