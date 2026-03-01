@@ -5,7 +5,6 @@ title: "GitHub Copilot"
 
 
 ## Digital Literacy Reflection: A Visual Arts Student's Journey
-Claude Haiku
 
 As a twenty-year-old Visual Arts major navigating the increasingly digital landscape of contemporary artistic practice, I find myself at an inflection point where traditional creative skills must coexist with computational literacy. Digital literacy, I've come to understand, is not merely about operating software or consuming content—it's about understanding how digital systems shape our creative expression, research methodologies, and collaborative potential.
 
