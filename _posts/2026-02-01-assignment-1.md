@@ -17,75 +17,54 @@ tags:
   - VSCode
 ---
 
-## Guidelines for the Lab: 
+## Introduction
 
-Today in lab one of the things we will be doing is to create your own site at GitHub Pages in which you post all of your coursework, including writing and visuals. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor (VSCode in S26), to learn and practice some Markdown and to get comfortable with editing on our own machine and then publishing our materials gently to the web. 
+Before beginning this analysis, I was familiar with books that fell under either science fiction or fantasy, yet I could not recall reading a book that occupied both categories at once. More importantly, I could not imagine myself reading dozens of book descriptions in order to determine which texts would be most suitable for comparative analysis. This initial hesitation highlights precisely the challenge that distant reading seeks to address.  As Ama explains in “Distant Reading: A Discussion with Ama Bemma Adwetewa-Badu”, this method enables scholars to visualize and analyze patterns that otherwise would have been too vast to see by close reading alone [ ]. With this in mind, I approached this corpus with the hypothesis that a strong conceptual and thematic connection between fantasy and science fiction books would emerge.
+After doing an in-depth analysis from the research material gathered about my books, I noticed that some shared a few things in common. For example, all five works were published around the late 19th to early 20th century. Thus, the authors of the books were exposed to major historical events and developments such as:
+Rapid industrialization
+New scientific discoveries
+Mass magazine publication culture
+All five books also shared themes of similar genres:
+Science
+Adventure
+Myth
+Despite these similarities, they differed in other aspects, such as the ideas and “concepts” they explored:
+Cthulhu:  Ancient cosmic entities 
+Oz: Magical alternate dimension
+War of the Worlds: Alien Invasion from Mars
+Princess of Mars: Mars (Alien) Civilization
+20,000 Leagues: Deep ocean mysteries
 
-Knowing how to create such a "[static site](https://kinsta.com/knowledgebase/what-is-a-static-website/)" is an important skill in minimal and sustainable digital arts and humanities. The site is free, maintenance is minimal and it can also sit alongside examples of code or data that you have created. Curating a tidy, clear site creates a web presence for yourself. 
 
 > This course site is created in GitHub Pages by forking the **Minimal Mistakes** starter theme. I have used this theme to model how you can go about learning for yourself. When you gain more confidence you will be able to change to other themes (or even go with the full version of the Minimal Mistakes theme) and customize them to your own liking. 
 
-## GitHub and GitHub Pages Terminology
+## Conducting Analysis 
  
-Before we begin, here are some new terms you'll encounter when working with GitHub:
+Drawing from these research-based deductions, I sketched a practical list of words for the use of Voyant. As Johanna Drucker pointed out in Chapter 7 “Data Mining and Analysis” in An Introduction to Digital Methods for Research and Scholarship, Voyant is particularly effective for distant reading because it makes statistical text analysis accessible without requiring programming expertise. As a dashboard-based platform, it allows researchers to upload texts and immediately generate visualizations such as word clouds, trend graphs, topic clusters, and keyword-in-context displays[1]. With this information, one can pick up patterns not easily visible through close reading. In other words, this tool’s strength lies in correlation, since clicking on a term dynamically reshapes data visualizations, encouraging comparative analysis across a corpus.
 
-| Term | Definition |
-| :--- | :--- |
-| **Repository (Repo)** | A folder/project containing all your files and their revision history. Can exist locally on your computer and/or remotely on GitHub. |
-| **Fork** | Creating a copy of someone else's repository in your own GitHub account. You can modify your fork without affecting the original. |
-| **Clone** | Downloading a copy of a repository from GitHub to your local computer so you can work on it offline. |
-| **Commit** | Saving a snapshot of your changes with a descriptive message. Think of it as a checkpoint in your project's history. |
-| **Push** | Uploading your local commits to the remote repository on GitHub, making your changes visible online. |
-| **Fetch** | Downloading changes from the remote repository to your local copy to stay up-to-date. |
-| **Versioning** | The practice of tracking and managing changes to files over time. Git stores a complete history of every version of your project, allowing you to revert to previous versions if needed. |
-| **Static Site** | A website composed of fixed HTML, CSS, and JavaScript files that don't change unless you edit them directly. Static sites are fast, secure, and require no database or server-side processing. |
-| **GitHub Pages** | A free hosting service provided by GitHub that automatically publishes websites directly from a repository. Perfect for static sites, portfolios, and documentation. |
-| **Template** | A pre-designed structure and styling for a website that you can customize with your own content. Templates like Minimal Mistakes provide a foundation so you don't start from scratch. |
-| **Jekyll** | A static site generator that transforms your Markdown and template files into HTML. GitHub Pages uses Jekyll to automatically build your site. |
-| **Markdown** | A simple, human-readable format for writing content that gets converted to HTML. Uses symbols like `#` for headings, `**` for bold, and `-` for lists. |
-| **Build** | The process where Jekyll converts your Markdown files and templates into the final HTML website that visitors see. GitHub Pages builds automatically when you push changes. |
+ Keywords to Search
+Unknown
+Exploration
+Science
+Technology
+discovery
+Man
+Journey 
+Martian 
+This led me to discover a few interesting points. On the trend graphs, it can be seen that, despite all books appearing under the category of “science fiction” in Project Gutenberg, only a brief mention of the words “technology” and “science”  are found in the books, these being Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World by Verne (pg2488), A princess of Mars by Edgar Rice Burroughs, (pg62), and The call of Cthulhu by H. P. Lovecraft (pg68283). This, nonetheless, makes sense, when taking into account the historical context behind the three books. Edgar Rice Burroughs, most known for his adventure narratives such as Tarzan, brought A Princess of Mars to life in 1912, during a period of widespread “Mars mania,” A Princess of Mars drew heavily on contemporary astronomical theories about a dying Red Planet advanced by Giovanni Schiaparelli and Percival Lowell (CITATION). 
+Lovecraft, on his side, wrote in the aftermath of World War I, amidst rapid scientific advancements, where he articulated a philosophy known as“cosmicism”: the idea that humanity is insignificant in an indifferent universe. These ideas were clearly reflected in  “The Call of Cthulhu” (1928). Drawing on contemporary developments in astronomy, evolutionary theory, and archaeology, Lovecraft crafted a story in which ancient extraterrestrial beings predate human civilizations. (CITATION)
+Meanwhile, as part of his “Voyages Extraordinaires” series, Jules Verne’s Twenty Thousand Leagues Under the Sea: An Underwater Tour of the World (1870) reflects the belief that science and exploration could lead a path to the unknown. Published in the nineteenth century,  an era considered to be of technological innovation, particularly in naval engineering and marine biology, the novel fused contemporary fascination with submarines and oceanography. While Verne incorporated scientific details, he also interrogated the moral implications of progress.  Moreover, it could be argued the ocean functioned as a frontier, paralleling the period’s terrestrial colonial expansion with ideas of discovery leading to an uncharted, submerged world. 
 
-STEP 1: Getting the basics set up
-
-1.  You need to have a [Github account](https://github.com/signup). We will create a repository in it in which we install a template for the site. If you already have a Github account and would like to use it and there is a repository {yourusername}.github.io set up already, you have a few options: 
-
-- you can delete the repository if you do not want it anymore
-- you can rename the repository, e.g. if the repo were named daahnyuad.github.io you could rename it daahnyuad1.github.io and proceed with this tutorial. 
-- you can create an empty repository named, for example `daah`, and then install the template inside of it. 
-- you can create a new Github account for the purposes of this course. 
-
-These instructions will guide you through the third option. 
-
-<img src="/assets/images/creatingacct.png" style="zoom:25%;" /> 
-
-1.  Make sure you have downloaded a text editor of your choice for your system. This lab write up will explain how to use [Visual Studio Code](https://code.visualstudio.com/). Others are possible, such as [Sublime Text](https://www.sublimetext.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here. 
-
-2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub as explained [here](https://www.youtube.com/watch?v=7JjVz_1t34Q), but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you. I suggest starting with Github Desktop and transitioning to committing directly in VSCode.
- 
-STEP 2  "Forking" a repo. 
-
-Detailed general instructions for forking can be found [here](https://liamodwyer.github.io/github-pages/5-templates.html)
-
-3.  Once you have completed 1 and 2, you can proceed with making a duplicate of the template we will be using. We do this by navigating to the main page of an existing GitHub page of `minimal-mistakes` and will be using their starter template: https://github.com/mmistakes/mm-github-pages-starter
-
-4. With your GitHub account open (you can tell it is open when you see the icon of your account at top right), navigate to this link above, look above the file list to the right, and click `Use This Template` (If you do not see it, you may have to go to Settings to click it on). Select `create a new repository`. This will take what is at `minimal-mistakes` and transfer it over into your account (this is called "forking").
-
-5. On the page `create a new repository` you need to give the repository a name. You should see under general your username. Next to it you can choose a repository name (for example, DAAH). Give it a description Make sure you set the repository to public and then click on the green button `create repository`
-
-6. Once the repository has been created you need to activate the "build and deploy" function for that page. Go to Settings > Pages and select the `master` branch and save. You can tell that something is working in the repository you just create when you go back and you see the brown dot. A green check mark means the process is done. 
-
-> Note that the repo we have forked is a simplified version of `minimal-mistakes`. If you want to tap into all the options of the full version, you will have to download the full theme and do more work!
-
-We will use the starter website (and customize it) for our work in IM-UH 1511, including the creation of pages and posts.
-
-
-STEP 3 Connecting the cloud-based Github to your own machine.
+STEP 3 IMAGE OF TRENDS ON VOYANT TOOLS
 
 1.   "Cloning" this repository to Github Desktop
 
-Open GitHub Desktop and log into it with your credentials from your GitHub account. You can check that at Setting > Accounts. 
+More intriguing similarities and differences could be found with the Bubblelines tool, in which the corpus is “represented as a horizontal line and divided into segments of equal length”.  This data allowed me to confirm my hypothesis that the mentions of “martians” would be aligned with the books of The War of the Worlds by H. G. Wells(pg36) and A Princess of Mars (pg62), given that both stories revolved around martian life. One of the greatest differences with one of the keywords I had chosen was “journey”, which was mostly present in The Wonderful Wizard of Oz by L. Frank Baum. L (pg55). 
 
-In Github Desktop, go to File > Clone Repository or with the abovementioned repository, click on the `add` button and pull down for `clone repository`. 
+Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition. Thus, Baum sought to create a modern American fairy tale. The novel reflects late nineteenth-century fascination with fantasy as both escape from and response to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
+
+One word, however, caught my attention. It is not a word that I could have thought to be associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like The Wonderful Wizard of Oz  and The Call of Cthulhu have lower frequencies, this data led me to discover how male-dominated these books are. 
+
 
 <img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
 
