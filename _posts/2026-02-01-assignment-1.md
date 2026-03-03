@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1"
+title: "Assignment 1. Working with a Corpus S26"
 date: 2026-02-28
 categories: assignments
 layout: single
