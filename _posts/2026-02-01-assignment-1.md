@@ -67,7 +67,7 @@ One word, however, caught my attention. It is not a word that I could have thoug
 
 <img src="images/Voyant_Trends_Part1.png" style="zoom:40%;" />
 
-<img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
+<img src="/assets/images/Voyant_Trends_Part1.png" style="zoom:40%;" />
 
 There are several ways of finding the repository you want to clone. When you install Github Desktop for the first time it may ask you if you want to clone. It may also suggest that repo once you have selected `clone repository`. Another sure way of selecting the right place is to copy the URL of your repository where you forked the `minimal-mistakes`template. You can paste that URL in the URL tab and click clone. 
 
