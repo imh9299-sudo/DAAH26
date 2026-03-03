@@ -65,6 +65,7 @@ Baum began his career in journalism before achieving success with children’s l
 
 One word, however, caught my attention. It is not a word that I could have thought to be associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like The Wonderful Wizard of Oz  and The Call of Cthulhu have lower frequencies, this data led me to discover how male-dominated these books are. 
 
+<img src="images/Voyant_Trends_Part1.png" style="zoom:40%;" />
 
 <img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
 
