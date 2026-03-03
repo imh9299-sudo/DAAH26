@@ -36,15 +36,7 @@ Despite these similarities, they differed in other aspects, such as the ideas an
 
 
 > This course site is created in GitHub Pages by forking the **Minimal Mistakes** starter theme. I have used this theme to model how you can go about learning for yourself. When you gain more confidence you will be able to change to other themes (or even go with the full version of the Minimal Mistakes theme) and customize them to your own liking. 
-
-## Conducting Analysis 
- 
-Drawing from these research-based deductions, I sketched a practical list of words for the use of Voyant. As Johanna Drucker pointed out in Chapter 7 “Data Mining and Analysis” in An Introduction to Digital Methods for Research and Scholarship, Voyant is particularly effective for distant reading because it makes statistical text analysis accessible without requiring programming expertise. As a dashboard-based platform, it allows researchers to upload texts and immediately generate visualizations such as word clouds, trend graphs, topic clusters, and keyword-in-context displays [2]. 
-
-With this information, one can pick up patterns not easily visible through close reading. In other words, this tool’s strength lies in correlation, since clicking on a term dynamically reshapes data visualizations, encouraging comparative analysis across a corpus.
-
-
-** Keywords to Search**
+> **Keywords to Search**
 - Unknown
 - Exploration
 - Science
@@ -54,8 +46,16 @@ With this information, one can pick up patterns not easily visible through close
 - Journey 
 - Martian 
 
+## Conducting Analysis 
+ 
+Drawing from these research-based deductions, I sketched a practical list of words for the use of Voyant. As Johanna Drucker pointed out in Chapter 7 “Data Mining and Analysis” in An Introduction to Digital Methods for Research and Scholarship, Voyant is particularly effective for distant reading because it makes statistical text analysis accessible without requiring programming expertise. As a dashboard-based platform, it allows researchers to upload texts and immediately generate visualizations such as word clouds, trend graphs, topic clusters, and keyword-in-context displays [2]. 
+
+With this information, one can pick up patterns not easily visible through close reading. In other words, this tool’s strength lies in correlation, since clicking on a term dynamically reshapes data visualizations, encouraging comparative analysis across a corpus.
+
+
+
   
-*Voyant Tools*
+**Voyant Tools**
 
 
 This led me to discover a few interesting points. On the trend graphs, it can be seen that, despite all books appearing under the category of “science fiction” in Project Gutenberg, only a brief mention of the words “technology” and “science”  are found in the books, these being Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World by Verne (pg2488), A princess of Mars by Edgar Rice Burroughs, (pg62), and The call of Cthulhu by H. P. Lovecraft (pg68283).
@@ -89,9 +89,9 @@ One word, however, caught my attention. It is not a word that I could have thoug
 <iframe style='width: 743px; height: 375px;' src='https://voyant-tools.org/tool/Loom/?view=Loom&corpus=53cf498d83f95832778d4c982ae96bc9'></iframe>
 
 
+   
 
-
-*RMarkdown Notebook*
+**RMarkdown Notebook**
 
 
 While Voyant is extremely efficient to explore this kind  of quantitative information, I was also curious on what the posit Cloud had to offer. 
@@ -124,39 +124,21 @@ Ultimately, this project demonstrates that distant reading can be an extremely p
 
 <img src="/assets/images/clonerepo.png" style="zoom:60%;" />
 
-If successful, you should be able to see the repository in the current repository tab at top left in Github Desktop. 
-
-6.  Editing the repository on your own machine. 
-
-Now that you have a copy of the repository on your laptop you can edit it there (even offline and with no internet connection) and then later "push" the changes to the web. 
-
-When you edit, save in VSCode (and sometime enter a commit message in Github Desktop), you then clock `commit to master` and you will see a blue button at right `push origin`. Click it to transfer these changes to the web. That is three clicks to push something to the web!
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
-
-> Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk--it will be done soon. 
-
-> NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare. If you do make a change in the GitHub web interface, make sure that you fetch the origin. 
-
-7. If you use the button in Github Desktop to open in external editor (choosing Visual Studio Code), we can now move on to editing any of the pages. 
-
-Let's make some changes in VSCode and push them. 
 
 <img src="/assets/images/pushing.png" style="zoom:25%;" />
  
-Pages that have editable material to change your site: 
 
-- navigation.yml
-- _config.yml
+**Works Cited** 
 
-So that you can have the landing page be a page and not a post, try this: 
+- [1] Adams, Kim, and Saronik Bosu. “Distant Reading: A Discussion with Ama Bemma Adwetewa-Badu.” New Books Network, 2022, newbooksnetwork.com/distant-reading. 
+- [2]  Johanna Drucker pointed out in Chapter 7 “Data Mining and Analysis” in An Introduction to Digital Methods for Research and Scholarship
+- [3] Britannica Editors (2025, October 8). Edgar Rice Burroughs. Encyclopedia Britannica. https://www.britannica.com/biography/Edgar-Rice-Burroughs
+- [4] ​​Britannica Editors (2025, November 14). H.P. Lovecraft. Encyclopedia Britannica. https://www.britannica.com/biography/H-P-Lovecraft
+- [5] Evans, A.B. (2026, February 4). Jules Verne. Encyclopedia Britannica. https://www.britannica.com/biography/Jules-Verne
+- [6] “The Wonderful Wizard of Oz by L. Frank Baum: History: Research Starters: EBSCO Research.” EBSCO, www.ebsco.com/research-starters/history/wonderful-wizard-oz-l-frank-baum. Accessed 3 Mar. 2026. 
+- [7] Underwood, Ted. “Distant Horizons: Digital Evidence and Literary Change .” Chicago Scholarship Online, Oxford Academic, 2019, academic.oup.com/chicago-scholarship-online/book/31660. 
+- [8] Bracken, H. (2026, February 13). The War of the Worlds. Encyclopedia Britannica. https://www.britannica.com/topic/The-War-of-the-Worlds-novel-by-Wells
+- Nicholson, N.C. (2026, January 21). H.G. Wells. Encyclopedia Britannica. https://www.britannica.com/biography/H-G-Wells
 
-
-
-
-Follow up posts:
-
-- [Connecting your VSCode to CoPilot and Customizing your GitHub page](https://daahnyuad.github.io/blog/GitHub-Education-VSCode-S26/)
-- Committing directly in VSCode -- coming soon
-
-Enjoy!
