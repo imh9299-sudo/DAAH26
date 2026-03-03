@@ -35,7 +35,13 @@ Despite these similarities, they differed in other aspects, such as the ideas an
 - 20,000 Leagues: Deep ocean mysteries
 
 
-> This course site is created in GitHub Pages by forking the **Minimal Mistakes** starter theme. I have used this theme to model how you can go about learning for yourself. When you gain more confidence you will be able to change to other themes (or even go with the full version of the Minimal Mistakes theme) and customize them to your own liking. 
+
+## Conducting Analysis 
+ 
+Drawing from these research-based deductions, I sketched a practical list of words for the use of Voyant. As Johanna Drucker pointed out in Chapter 7 “Data Mining and Analysis” in *An Introduction to Digital Methods for Research and Scholarship*, Voyant is particularly effective for distant reading because it makes statistical text analysis accessible without requiring programming expertise. As a dashboard-based platform, it allows researchers to upload texts and immediately generate visualizations such as word clouds, trend graphs, topic clusters, and keyword-in-context displays [2]. 
+
+With this information, one can pick up patterns not easily visible through close reading. In other words, this tool’s strength lies in correlation, since clicking on a term dynamically reshapes data visualizations, encouraging comparative analysis across a corpus.
+
 > **Keywords to Search**
 - Unknown
 - Exploration
@@ -46,44 +52,32 @@ Despite these similarities, they differed in other aspects, such as the ideas an
 - Journey 
 - Martian 
 
-## Conducting Analysis 
- 
-Drawing from these research-based deductions, I sketched a practical list of words for the use of Voyant. As Johanna Drucker pointed out in Chapter 7 “Data Mining and Analysis” in An Introduction to Digital Methods for Research and Scholarship, Voyant is particularly effective for distant reading because it makes statistical text analysis accessible without requiring programming expertise. As a dashboard-based platform, it allows researchers to upload texts and immediately generate visualizations such as word clouds, trend graphs, topic clusters, and keyword-in-context displays [2]. 
-
-With this information, one can pick up patterns not easily visible through close reading. In other words, this tool’s strength lies in correlation, since clicking on a term dynamically reshapes data visualizations, encouraging comparative analysis across a corpus.
-
-
-
   
 **Voyant Tools**
 
 
-This led me to discover a few interesting points. On the trend graphs, it can be seen that, despite all books appearing under the category of “science fiction” in Project Gutenberg, only a brief mention of the words “technology” and “science”  are found in the books, these being Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World by Verne (pg2488), A princess of Mars by Edgar Rice Burroughs, (pg62), and The call of Cthulhu by H. P. Lovecraft (pg68283).
+This led me to discover a few interesting points. On the trend graphs, it can be seen that, despite all books appearing under the category of “science fiction” in Project Gutenberg, only a brief mention of the words “technology” and “science”  are found in the books, these being *Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World* by Verne (pg2488), *A Princess of Mars* by Edgar Rice Burroughs, (pg62), and *The call of Cthulhu by H. P. Lovecraft* (pg68283).
 
-Nonetheless, this makes sense, when taking into account the historical context behind the three books. Edgar Rice Burroughs, most known for his adventure narratives such as Tarzan, brought A Princess of Mars to life in 1912, during a period of widespread “Mars mania,” A Princess of Mars drew heavily on contemporary astronomical theories about a dying Red Planet advanced by Giovanni Schiaparelli and Percival Lowell [3]. 
+Nonetheless, this makes sense, when taking into account the historical context behind the three books. Edgar Rice Burroughs, most known for his adventure narratives such as Tarzan, brought A Princess of Mars to life in 1912, during a period of widespread “Mars mania,” *A Princess of Mars* drew heavily on contemporary astronomical theories about a dying Red Planet advanced by Giovanni Schiaparelli and Percival Lowell [3]. 
 
-Lovecraft, on his side, wrote in the aftermath of World War I, amidst rapid scientific advancements, where he articulated a philosophy known as“cosmicism”: the idea that humanity is insignificant in an indifferent universe. These ideas were clearly reflected in  “The Call of Cthulhu” (1928). Drawing on contemporary developments in astronomy, evolutionary theory, and archaeology, Lovecraft crafted a story in which ancient extraterrestrial beings predate human civilizations [4].
+Lovecraft, on his side, wrote in the aftermath of World War I, amidst rapid scientific advancements, where he articulated a philosophy known as“cosmicism”: the idea that humanity is insignificant in an indifferent universe. These ideas were clearly reflected in  *The Call of Cthulhu* (1928). Drawing on contemporary developments in astronomy, evolutionary theory, and archaeology, Lovecraft crafted a story in which ancient extraterrestrial beings predate human civilizations [4].
 
-Meanwhile, as part of his “Voyages Extraordinaires” series, Jules Verne’s Twenty Thousand Leagues Under the Sea: An Underwater Tour of the World (1870) reflects the belief that science and exploration could lead a path to the unknown. Published in the nineteenth century,  an era considered to be of technological innovation, particularly in naval engineering and marine biology, the novel fused contemporary fascination with submarines and oceanography. While Verne incorporated scientific details, he also interrogated the moral implications of progress [5]
+Meanwhile, as part of his “Voyages Extraordinaires” series, Jules Verne’s *Twenty Thousand Leagues Under the Sea: An Underwater Tour of the World* (1870) reflects the belief that science and exploration could lead a path to the unknown. Published in the nineteenth century,  an era considered to be of technological innovation, particularly in naval engineering and marine biology, the novel fused contemporary fascination with submarines and oceanography. While Verne incorporated scientific details, he also interrogated the moral implications of progress [5]
 
 STEP 3 IMAGE OF TRENDS ON VOYANT TOOLS
 <img src="images/Voyant_Trends_Part1.png" style="zoom:40%;" />
 
-1.   "Cloning" this repository to Github Desktop
 
-More intriguing similarities and differences could be found with the Bubblelines tool, in which the corpus is “represented as a horizontal line and divided into segments of equal length”.  This data allowed me to confirm my hypothesis that the mentions of “martians” would be aligned with the books of The War of the Worlds by H. G. Wells(pg36) and A Princess of Mars (pg62), given that both stories revolved around martian life. One of the greatest differences with one of the keywords I had chosen was “journey”, which was mostly present in The Wonderful Wizard of Oz by L. Frank Baum. L (pg55). 
 
-Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition. Thus, Baum sought to create a modern American fairy tale. The novel reflects late nineteenth-century fascination with fantasy as both escape from and response to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
+More intriguing similarities and differences could be found with the Bubblelines tool, in which the corpus is “represented as a horizontal line and divided into segments of equal length”.  This data allowed me to confirm my hypothesis that the mentions of “martians” would be aligned with the books of *The War of the Worlds by H. G. Wells* (pg36) and A Princess of Mars (pg62), given that both stories revolved around martian life. One of the greatest differences with one of the keywords I had chosen was “journey”, which was mostly present in *The Wonderful Wizard of Oz* by L. Frank Baum. L (pg55). 
+
+Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition [6]. Thus, Baum sought to create a modern American fairy tale. The novel reflects late nineteenth-century fascination with fantasy as both escape from and respond to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
 
 
 <img src="images/Voyant_Trends_Part2.png" style="zoom:40%;" />
 
 
-More intriguing similarities and differences could be found with the Bubblelines tool, in which the corpus is “represented as a horizontal line and divided into segments of equal length”.  This data allowed me to confirm my hypothesis that the mentions of “martians” would be aligned with the books of The War of the Worlds by H. G. Wells (pg36) and A Princess of Mars (pg62), given that both stories revolved around martian life. One of the greatest differences with one of the keywords I had chosen was “journey”, which was mostly present in The Wonderful Wizard of Oz by L. Frank Baum. L (pg55). 
-
-Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition. Thus, Baum sought to create a modern American fairy tale. [6] The novel reflects late nineteenth-century fascination with fantasy as both escape from and response to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
-
-One word, however, caught my attention. It is not a word that I could have thought to be associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like The Wonderful Wizard of Oz  and The Call of Cthulhu have lower frequencies, this data led me to discover how male-dominated these books are.
+One word, however, caught my attention. It is not a word that I could have thought to be associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like *The Wonderful Wizard of Oz* and *The Call of Cthulhu* have lower frequencies, this data led me to discover how male-dominated these books are.
 
 
 <iframe style='width: 743px; height: 375px;' src='https://voyant-tools.org/tool/Loom/?view=Loom&corpus=53cf498d83f95832778d4c982ae96bc9'></iframe>
@@ -96,7 +90,7 @@ One word, however, caught my attention. It is not a word that I could have thoug
 
 While Voyant is extremely efficient to explore this kind  of quantitative information, I was also curious on what the posit Cloud had to offer. 
 
-When I first began using the RMarkdown notebook in posit.Cloud, Project Gutenberg Explorer,  to acquire additional visualizations, I struggled to replicate the exercise we had done in class with previous books. Nevertheless, after receiving assistance from Professor Wrisley, I understood that I had not replaced the number of the pages as they are defined in Project Gutenberg (e.g. The call of Cthulhu by H. P. Lovecraft is 68283.txt, thus, I had to introduce this number so posit.Cloud could find and extract the book from Project Gutenberg (the website). Another significant step I overlooked was downloading the libraries inside the RMarkdown notebook. This part of the process was essential, given that the following steps inside the notebook would not work and indicate an error. After downloading all the libraries, and applying diligent focus to each step, eventually the system managed to produce a Scaled Word Frequency HeatMap. 
+When I first began using the RMarkdown notebook in posit.Cloud, Project Gutenberg Explorer,  to acquire additional visualizations, I struggled to replicate the exercise we had done in class with previous books. Nevertheless, after receiving assistance from Professor Wrisley, I understood that I had not replaced the number of the pages as they are defined in Project Gutenberg (e.g. The call of Cthulhu by H. P. Lovecraft is 68283.txt), thus, I had to introduce this number so posit.Cloud could find and extract the book from Project Gutenberg (the website). Another significant step I overlooked was downloading the libraries inside the RMarkdown notebook. This part of the process was essential, given that the following steps inside the notebook would not work and indicate an error. After downloading all the libraries, and applying diligent focus to each step, eventually the system managed to produce a Scaled Word Frequency HeatMap. 
 
 <img src="/assets/images/Heatmap_PositCloud.png" style="zoom:40%;" />
 
