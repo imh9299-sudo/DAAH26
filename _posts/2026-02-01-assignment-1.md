@@ -8,7 +8,6 @@ layout: single
 # Corpus Selection "Science Fiction and Fantasy
 <!--more-->
 
-
 ## Introduction
 
 Before beginning this analysis, I was familiar with books that fell under either science fiction or fantasy, yet I could not recall reading a book that occupied both categories at once. More importantly, I could not imagine myself reading dozens of book descriptions in order to determine which texts would be most suitable for comparative analysis. This initial hesitation highlights precisely the challenge that distant reading seeks to address.  As Ama explains in “Distant Reading: A Discussion with Ama Bemma Adwetewa-Badu”, this method enables scholars to visualize and analyze patterns that otherwise would have been too vast to see by close reading alone [1]. With this in mind, I approached this corpus with the hypothesis that a strong conceptual and thematic connection between fantasy and science fiction books would emerge.
@@ -18,13 +17,11 @@ After doing an in-depth analysis from the research material gathered about my bo
   - New scientific discoveries
   - Mass magazine publication culture
 
-
 All five books also shared themes of similar genres:
 
   - Science
   - Adventure
   - Myth
-
 
 Despite these similarities, they differed in other aspects, such as the ideas and “concepts” they explored:
 
@@ -33,8 +30,6 @@ Despite these similarities, they differed in other aspects, such as the ideas an
 - War of the Worlds: Alien Invasion from Mars
 - Princess of Mars: Martian/Alien Civilization
 - 20,000 Leagues: Deep ocean mysteries
-
-
 
 ## Conducting Analysis 
  
@@ -52,9 +47,7 @@ With this information, one can pick up patterns not easily visible through close
 - Journey 
 - Martian 
 
-  
 **Voyant Tools**
-
 
 This led me to discover a few interesting points. On the trend graphs, it can be seen that, despite all books appearing under the category of “science fiction” in Project Gutenberg, only a brief mention of the words “technology” and “science”  are found in the books, these being *Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World* by Verne (pg2488), *A Princess of Mars* by Edgar Rice Burroughs, (pg62), and *The call of Cthulhu by H. P. Lovecraft* (pg68283).
 
@@ -68,26 +61,17 @@ STEP 3 IMAGE OF TRENDS ON VOYANT TOOLS
 
 <img src="/assets/images/Voyant_Trends_Part1.png" style="zoom:40%;" />
 
-
-
 More intriguing similarities and differences could be found with the Bubblelines tool, in which the corpus is “represented as a horizontal line and divided into segments of equal length”.  This data allowed me to confirm my hypothesis that the mentions of “martians” would be aligned with the books of *The War of the Worlds by H. G. Wells* (pg36) and A Princess of Mars (pg62), given that both stories revolved around martian life. One of the greatest differences with one of the keywords I had chosen was “journey”, which was mostly present in *The Wonderful Wizard of Oz* by L. Frank Baum. L (pg55). 
 
 Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition [6]. Thus, Baum sought to create a modern American fairy tale. The novel reflects late nineteenth-century fascination with fantasy as both escape from and respond to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
 
-
 <img src="/assets/images/Voyant_Trends_Part2.png" style="zoom:40%;" />
-
 
 One word, however, caught my attention. It is not a word that I would have associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like *The Wonderful Wizard of Oz* and *The Call of Cthulhu* have lower frequencies, this data led me to discover how male-dominated these books are.
 
-
 <iframe style='width: 743px; height: 375px;' src='https://voyant-tools.org/tool/Loom/?view=Loom&corpus=53cf498d83f95832778d4c982ae96bc9'></iframe>
-
-
    
-
 **RMarkdown Notebook**
-
 
 While Voyant is extremely efficient to explore this kind  of quantitative information, I was also curious on what the posit Cloud had to offer. 
 
@@ -95,35 +79,17 @@ When I first began using the RMarkdown notebook in posit.Cloud, Project Gutenber
 
 <img src="/assets/images/Heatmap_PositCloud.png" style="zoom:40%;" />
 
-
 As previously mentioned, the Voyant tools revealed that the word “man” was used across all five books. So I decided to deepen my understanding with the RMarkdown notebook. According to the HeatMap, in which the higher the frequency, the more vibrant a color inside a box would be, the word “man” was most frequent in Twenty Thousand Leagues Under the Sea, with up to 164 mentions, while the smaller frequency could be found in The call of Cthulhu. More importantly, these numbers are relatively higher than the rest in other categories, such as the use of “discovery”, “unknown”, “magic”, “myth”, or “real”, all words that are often associated with science fiction or fantasy. 
-
-
-
-
 
 The distant reading of this corpus revealed that the defining ideas, concepts, and thematic structures associated with fantasy and science fiction are rarely stated explicitly; rather, they are most likely implied through worldbuilding and symbolic language. This subtlety could reflect the authors’ storytelling skills, as the genres in this examination are constructed through suggestion, atmosphere and setting descriptions, rather than overt declaration. The data gathered though Voyant tools and posit.Cloud supports this patter: while certain genre markers appear consistently, much of what sets these texts within fantasy or science fiction emerges contextually rather than through direct labeling. 
 
-
 At the same time, one of the most striking patterns across the corpus is the dominance of the male presence within the narratives. The frequency of male-centered language not only could reflect the literary conventions of the late nineteenth and early twentieth centuries, but also opens space for broader questions about gender representation within fictional narratives during these times. 
-
 
 Despite the shared classification of all five works under “fantasy and science fiction” in Project Gutenberg, the contextual research and computational findings demonstrate important distinctions, slightly disproving my initial hypothesis.  The call of Cthulhu, The war of the worlds, A Princess of Mars, and Twenty Thousand Leagues Under the Seas align more closely with science fiction due to their emphasis on technological speculation, extraterrestrial or cosmic encounters, and scientific framing. In contrast,  The Wonderful Wizard of Oz harmonized more strongly with fantasy, relying on magical systems, fantastical journeys, and mythic-like structures rather than scientific projections. Thus, the distant reading approach allowed me to access a broader comparative perspective, revealing patterns through quantitative data that might have been less immediately visible through close reading alone. 
 
-
 However, there are clear limitations to the tools and methods used. While Voyant Tools and posit.Cloud effectively highlight patterns in vocabulary or frequencies, one can not ignore other methods of comprehension. As Ted Underwood comments in Chapter 5 of Distant Horizons: Digital Evidence and Literary Change, “The Risks of Distant Reading”, an overemphasis on quantitative data can take away the “literary pleasure” and the emotional impact that define the reading experience [7].
 
-
 Ultimately, this project demonstrates that distant reading can be an extremely powerful and efficient tool if used correctly, with both understanding and balance. It expands the scale of analysis for a corpus and allows for interesting genre comparison across multiple texts.
-
-
-<img src="/assets/images/clonerepo.png" style="zoom:60%;" />
-
-
-<img src="/assets/images/pushing.png" style="zoom:25%;" />
-
-<img src="/assets/images/pushing.png" style="zoom:25%;" />
- 
 
 **Works Cited** 
 
@@ -136,4 +102,3 @@ Ultimately, this project demonstrates that distant reading can be an extremely p
 - [7] Underwood, Ted. “Distant Horizons: Digital Evidence and Literary Change .” Chicago Scholarship Online, Oxford Academic, 2019, academic.oup.com/chicago-scholarship-online/book/31660. 
 - [8] Bracken, H. (2026, February 13). The War of the Worlds. Encyclopedia Britannica. https://www.britannica.com/topic/The-War-of-the-Worlds-novel-by-Wells
 - Nicholson, N.C. (2026, January 21). H.G. Wells. Encyclopedia Britannica. https://www.britannica.com/biography/H-G-Wells
-
