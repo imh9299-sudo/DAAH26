@@ -66,7 +66,7 @@ Meanwhile, as part of his “Voyages Extraordinaires” series, Jules Verne’s 
 
 STEP 3 IMAGE OF TRENDS ON VOYANT TOOLS
 
-<img src="/assets/images/assets/images/Voyant_Trends_Part1.png" style="zoom:40%;" />
+<img src="/assets/images/Voyant_Trends_Part1.png" style="zoom:40%;" />
 
 
 
@@ -75,7 +75,7 @@ More intriguing similarities and differences could be found with the Bubblelines
 Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition [6]. Thus, Baum sought to create a modern American fairy tale. The novel reflects late nineteenth-century fascination with fantasy as both escape from and respond to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
 
 
-<img src="/assets/images/assets/images/Voyant_Trends_Part2.png" style="zoom:40%;" />
+<img src="/assets/images/Voyant_Trends_Part2.png" style="zoom:40%;" />
 
 
 One word, however, caught my attention. It is not a word that I would have associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like *The Wonderful Wizard of Oz* and *The Call of Cthulhu* have lower frequencies, this data led me to discover how male-dominated these books are.
