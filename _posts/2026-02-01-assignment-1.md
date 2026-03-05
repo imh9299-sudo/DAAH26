@@ -58,13 +58,13 @@ Meanwhile, as part of his “Voyages Extraordinaires” series, Jules Verne’s 
 
 STEP 3 IMAGE OF TRENDS ON VOYANT TOOLS
 
-<img src="/assets/images/voyantrends1.png" style="zoom:40%;" />
+<img src="/DAAH26/assets/images/voyantrends1.png" style="zoom:40%;" />
 
 More intriguing similarities and differences could be found with the Bubblelines tool, in which the corpus is “represented as a horizontal line and divided into segments of equal length”.  This data allowed me to confirm my hypothesis that the mentions of “martians” would be aligned with the books of *The War of the Worlds by H. G. Wells* (pg36) and A Princess of Mars (pg62), given that both stories revolved around martian life. One of the greatest differences with one of the keywords I had chosen was “journey”, which was mostly present in *The Wonderful Wizard of Oz* by L. Frank Baum. L (pg55). 
 
 Baum began his career in journalism before achieving success with children’s literature at the turn of the twentieth century. Published in 1900, The Wonderful Wizard of Oz emerged during a period of rapid American industrialization and cultural transformation. While European fairy tales by the Brothers Grimm and Hans Christian Andersen had gained popularity in Victorian England, the United States lacked a distinctly national fantasy tradition [6]. Thus, Baum sought to create a modern American fairy tale. The novel reflects late nineteenth-century fascination with fantasy as both escape from and respond to industrial modernity, which sets it closest to fall under the category of “fantasy” compared to the other books. 
 
-<img src="/assets/images/voyantrends2.png.png" style="zoom:40%;" />
+<img src="/DAAH26/assets/images/voyantrends2.png.png" style="zoom:40%;" />
 
 One word, however, caught my attention. It is not a word that I would have associated with fantasy or science fiction, but it defined its presence for having one of the highest frequencies among all books: the word “man”. It is important to notice that, although books like *The Wonderful Wizard of Oz* and *The Call of Cthulhu* have lower frequencies, this data led me to discover how male-dominated these books are.
 
@@ -76,7 +76,7 @@ While Voyant is extremely efficient to explore this kind  of quantitative inform
 
 When I first began using the RMarkdown notebook in posit.Cloud, Project Gutenberg Explorer,  to acquire additional visualizations, I struggled to replicate the exercise we had done in class with previous books. Nevertheless, after receiving assistance from Professor Wrisley, I understood that I had not replaced the number of the pages as they are defined in Project Gutenberg (e.g. The call of Cthulhu by H. P. Lovecraft is 68283.txt), thus, I had to introduce this number so posit.Cloud could find and extract the book from Project Gutenberg (the website). Another significant step I overlooked was downloading the libraries inside the RMarkdown notebook. This part of the process was essential, given that the following steps inside the notebook would not work and indicate an error. After downloading all the libraries, and applying diligent focus to each step, eventually the system managed to produce a Scaled Word Frequency HeatMap. 
 
-<img src="/assets/images/heatmap.png" style="zoom:40%;" />
+<img src="/DAAH26/assets/images/heatmap.png" style="zoom:40%;" />
 
 As previously mentioned, the Voyant tools revealed that the word “man” was used across all five books. So I decided to deepen my understanding with the RMarkdown notebook. According to the HeatMap, in which the higher the frequency, the more vibrant a color inside a box would be, the word “man” was most frequent in Twenty Thousand Leagues Under the Sea, with up to 164 mentions, while the smaller frequency could be found in The call of Cthulhu. More importantly, these numbers are relatively higher than the rest in other categories, such as the use of “discovery”, “unknown”, “magic”, “myth”, or “real”, all words that are often associated with science fiction or fantasy. 
 
