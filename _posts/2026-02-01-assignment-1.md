@@ -1,8 +1,6 @@
 
-title: "Assignment 1: Working with a Corpus S26"
+# "Assignment 1: Working with a Corpus S26"
 date: 2026-03-03
-categories: assignments
-layout: single
 
 # Corpus Selection "Science Fiction and Fantasy
 <!--more-->
