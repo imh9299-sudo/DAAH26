@@ -101,3 +101,6 @@ Ultimately, this project demonstrates that distant reading can be an extremely p
 - [7] Underwood, Ted. “Distant Horizons: Digital Evidence and Literary Change .” Chicago Scholarship Online, Oxford Academic, 2019, academic.oup.com/chicago-scholarship-online/book/31660. 
 - [8] Bracken, H. (2026, February 13). The War of the Worlds. Encyclopedia Britannica. https://www.britannica.com/topic/The-War-of-the-Worlds-novel-by-Wells
 - Nicholson, N.C. (2026, January 21). H.G. Wells. Encyclopedia Britannica. https://www.britannica.com/biography/H-G-Wells
+
+
+READY FOR GRADING
