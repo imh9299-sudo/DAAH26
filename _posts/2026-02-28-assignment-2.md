@@ -7,7 +7,7 @@ layout: single
 
 ## Assignment 2: Data Analysis Project
 
-<iframe src="https://daahnyuad.github.io/hostedmaps/interactive_map.html" width="100%" height="500"></iframe> 
+<iframe src="https:/imh9299-sudo.github.io/hostedmaps/interactive_map.html" width="100%" height="500"></iframe> 
 
 - **Research Question** – A clear, specific question you want to explore
 - **Data Collection** – Describe your data sources and collection methods
