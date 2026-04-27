@@ -7,9 +7,7 @@ layout: single
 
 ## Assignment 2: Data Analysis Project
 
-
-# Context research:
-
+**Context research**
 
 We briefly looked at the context of the text in order to understand it a bit better, which would help us later in the manual geocoding process. Notes on contextual research: Theodore and Mabel Bent, married in 1877, went on frequent journeys together, documenting their experiences along the way. Their travels continued for around 20 years until Theodore died in 1897 from malaria. Despite this, Mabel continued preserving the memories of their shared adventures in notebooks she had written during their trips. In 1929, their journey accounts, otherwise known as their Chronicles, found their way into the archive of the Hellenic Society [1].
 
@@ -24,7 +22,7 @@ A factor that clearly affected the process of geocoding, and translating the tex
 <iframe src="https://imh9299-sudo.github.io/hostedmaps/interactive.html" width="100%" height="500"></iframe> 
 
 
-# Reflecting on the map:
+**Reflecting on the map**
 
 
 Once we were able to upload the HTML file to our repository and view the map through our GitHub website, it captured our attention how the data was visualized. Both the blue and orange points represent the Hadhramout places visited by the Bents, yet the automated and manual methods reveal both similarities and differences.
@@ -47,7 +45,7 @@ In the original text, there were also mentions such as “near a little village 
 Despite the supposition that the cultural and linguistic variation of a location’s name might affect whether the system recognizes it or not, the answer is more intricate than what it appears to be. Places like Makalla (regarded as “Al Mukalla” by the system), Hadhramout, Jehannam (which had to be flagged since it was displayed as “unknown”),  Akaba, and Wadi Adim (suggested to be “Lahij”), had slightly more complexity to their names, resulting in a more difficult process of identification by Recogito. Meanwhile other places like Medina, Basra, and Somali composed of “simpler words” were easily recognizable. Most of these names share similarities in respect to their origin, for example, “Wadi Adim” is an Arabic term originating from the phrase wada, meaning "it flowed, whereas “Basra” gets its name from the Arabic word "baṣrah," meaning "the over-watching," "the observer," or "the seeing. This highlights the complexity of whether the  cultural and linguistic variation factors on the recognition of a location, since two places of similar origins can produce different results. Thus, we believe that there is no definite answer as to what makes a location’s name more recognizable than the other, and that it all depends on the sophistication of the system itself.
 
 
-Work Cited
+**Work Cited**
 
 [1] The Arabian and Persian explorations, http://tambent.com/the-arabian-and-persian-explorations/
 [2] Recogito, https://recogito.pelagios.org/
