@@ -6,11 +6,11 @@ title: "GitHub Copilot"
 
 ## Digital Literacy Reflection: A Visual Arts Student's Journey
 
-As a twenty-year-old Visual Arts major navigating the increasingly digital landscape of contemporary artistic practice, I find myself at an inflection point where traditional creative skills must coexist with computational literacy. Digital literacy, I've come to understand, is not merely about operating software or consuming content—it's about understanding how digital systems shape our creative expression, research methodologies, and collaborative potential.
+As a twenty-one-year-old Visual Arts major navigating the increasingly digital presence on contemporary artistic practice, I find myself at a point where I understand why and how traditional creative skills  coexist with computational literacy. Digital literacy is not merely about operating software, managing umbers and graphs, or consuming content. It's about understanding how digital systems can enhance creative expressions, research methodologies, and collaborative works.
 
-In my daily academic life, I employ several digital strategies that have become second nature. Content creation platforms like Adobe Creative Suite form the backbone of my visual work, while Instagram and TikTok serve dual purposes as exhibition spaces and research tools where I analyze contemporary artistic trends. For research and data management, I've adopted Notion for organizing visual references, Pinterest for mood boarding, and Google Drive for collaborative project management. These platforms represent my first vocabulary in digital literacy: the ability to navigate existing tools effectively. Yet, I'm beginning to recognize the limitations of this surface-level competency.
+Throughout my academic life, I have developed several digital strategies. Initially, I considered content creation platforms like Photoshop, InDesign, or Procrate the main forms of creating visual work, specifically for while Instagram and TikTok serve dual purposes as exhibition spaces and research tools where I analyze contemporary artistic trends. For research and data management, I've adopted Notion for organizing visual references, Pinterest for mood boarding, and Google Drive for collaborative project management. These platforms represent my first vocabulary in digital literacy: the ability to navigate existing tools effectively. Yet, I'm beginning to recognize the limitations of this surface-level competency.
 
-What strikes me most vividly is the interdisciplinary richness in my cohort. A Computer Science student approaches digital problems with algorithmic thinking, while my Film and New Media peers understand narrative structure within digital ecosystems. My Environmental Studies classmates are using GIS mapping and data visualization tools to communicate complex ecological data. Engineering students manipulate digital fabrication software with precision I can only aspire toward. These diverse skill sets highlight that digital literacy is not monolithic—it's a constellation of practices shaped by disciplinary needs and ambitions.
+What strikes me most is the interdisciplinary richness in my cohort. A Computer Science student approaches digital problems with algorithmic thinking, while my Film and New Media peers understand narrative structure within digital ecosystems. My Environmental Studies classmates are using GIS mapping and data visualization tools to communicate complex ecological data. Engineering students manipulate digital fabrication software with precision I can only aspire toward. These diverse skill sets highlight that digital literacy is not monolithic—it's a constellation of practices shaped by disciplinary needs and ambitions.
 
 The concept of digital humanities has fundamentally reframed how I perceive my own field. Previously, I viewed digital tools as mere extensions of traditional artistic practice—digital substitutes for paint and canvas. Now, I'm recognizing that digital humanities offer entirely new interpretive frameworks. Platforms like ArcGIS, Processing, or even machine learning tools allow artists to ask entirely different questions of their subjects. An artist using data visualization to represent social networks operates in a space where aesthetics and analytics merge. This realization has been humbling and exciting in equal measure.
 
@@ -27,11 +27,6 @@ What excites me most about this digital literacy journey is the possibility of d
 Moving forward, I want to explore computational creativity more rigorously. I'm interested in learning Processing or p5.js more deeply, not to become a generative artist but to understand how code shapes form. I want to develop stronger data visualization skills that could communicate visual concepts quantitatively. Most ambitiously, I want to contribute to conversations about algorithmic aesthetics and the future of artistic practice in an age of artificial intelligence.
 
 Digital literacy, I now understand, is not a destination but a practice of continuous, critical engagement with evolving technologies. My journey is just beginning.
-
-
-GTP-4.1
-
-## Digital Literacy Reflection: A Creative Writing Student's Perspective
 
 As a 20-year-old university student majoring in Creative Writing, my relationship with digital literacy is both deeply personal and constantly evolving. In a world where storytelling is no longer confined to the printed page, digital tools and platforms have become essential to how I create, share, and even imagine my work. Digital literacy, for me, is not just about knowing how to use technology, but about understanding how it shapes the stories I tell, the communities I join, and the research I conduct.
 
@@ -53,10 +48,6 @@ Looking ahead, I want to explore new ways of integrating technology into my crea
 
 In conclusion, digital literacy is essential for any writer in the 21st century. It enables us to create, share, and analyze stories in ways that were unimaginable a generation ago. By embracing digital tools and interdisciplinary collaboration, I am not only expanding my own creative possibilities, but also contributing to a broader conversation about the future of storytelling. As I continue my studies, I am excited to see where this journey will take me—and what new stories I will be able to tell along the way.
 
-
-GTP-5 mini
-
-## Digital Literacy Reflection: A Film and New Media Student's Perspective
 
 At twenty, majoring in Film and New Media, digital literacy is the air I breathe. My practice depends on an ecosystem of hardware, software, and platforms that shape not only how I make work but how I research, collaborate, and think. For me, digital literacy means fluency—knowing the right tools for a specific creative aim, understanding data flows and production pipelines, and thinking critically about how technologies frame narratives and audiences.
 
